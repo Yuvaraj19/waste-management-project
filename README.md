@@ -27,6 +27,6 @@ User can generate the revenue by selling the waste available with him.
 TECHNOLOGIES USED :
 
 1. HTML, CSS & JavaScript for mark-up, design and interaction behaviour.
-2. Bootstrap / Angular JS will be used for making the site responsive and as a framework.
+2. Bootstrap / Angular JS are used for making the site responsive and as a framework.
 3. Server side language - PHP
 4. Database Software - MySql, Xampp Server
